@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Lnear_alg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\Lnear_alg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\LinearSolve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\LinearSolve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\LinearSolve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA51E7-71BA-4E62-BBCB-BB924C0843C3}|Linear_Algebra\\Linear_Algebra.vcxproj|solutionrelative:Linear_Algebra\\LinearSolve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:57:57.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinearSolve.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\LinearSolve.cpp",
+              "RelativeDocumentMoniker": "Linear_Algebra\\LinearSolve.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\LinearSolve.cpp",
+              "RelativeToolTip": "Linear_Algebra\\LinearSolve.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T12:44:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinearSolve.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\LinearSolve.h",
+              "RelativeDocumentMoniker": "Linear_Algebra\\LinearSolve.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\LinearSolve.h",
+              "RelativeToolTip": "Linear_Algebra\\LinearSolve.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T12:44:29.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Matrix.cpp",
+              "RelativeDocumentMoniker": "Linear_Algebra\\Matrix.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Matrix.cpp",
+              "RelativeToolTip": "Linear_Algebra\\Matrix.cpp",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAYwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T12:11:03.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Matrix.h",
+              "RelativeDocumentMoniker": "Linear_Algebra\\Matrix.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Matrix.h",
+              "RelativeToolTip": "Linear_Algebra\\Matrix.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-01T11:59:15.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Vector.cpp",
+              "RelativeDocumentMoniker": "Linear_Algebra\\Vector.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Vector.cpp",
+              "RelativeToolTip": "Linear_Algebra\\Vector.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T12:13:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Vector.h",
+              "RelativeDocumentMoniker": "Linear_Algebra\\Vector.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Vector.h",
+              "RelativeToolTip": "Linear_Algebra\\Vector.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T12:13:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lnear_alg.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Lnear_alg.cpp",
+              "RelativeDocumentMoniker": "Linear_Algebra\\Lnear_alg.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\c\u002B\u002B files\\projectcs mcvs\\Linear_Algebra\\Linear_Algebra\\Lnear_alg.cpp",
+              "RelativeToolTip": "Linear_Algebra\\Lnear_alg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T11:59:23.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
